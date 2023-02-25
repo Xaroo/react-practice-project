@@ -1,0 +1,16 @@
+.user-element__card {
+  background: white;
+  width: 47rem;
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px 1px #1f1f1f;
+  padding: 1rem;
+  margin: 2rem auto;
+  text-align: left;
+}
+.user-element__card p {
+  display: block;
+  border: solid 1px rgb(150, 150, 150);
+  padding: 0.7rem;
+  margin: 0;
+  font-weight: 500;
+}
